@@ -9,3 +9,5 @@
 
 當時試著修改後的檔案：[https://codepen.io/happpycorn/pen/dyaNmjx](https://codepen.io/happpycorn/pen/dyaNmjx)
 
+## Unsuport.py
+這是個待機畫面，每次程式出錯後都會跳出來，
