@@ -4,6 +4,6 @@ function doGet(e) {
   var SpreadSheet = SpreadsheetApp.getActive();       // 讀取目前的試算表
   var SheetName = SpreadSheet.getSheetByName(name);   // 開啟工作表1
   var data = SheetName.getSheetValues(2,1,SheetName.getLastRow(),SheetName.getLastColumn());    // 取得所有資料，組成 JSON 的形式，用純文字回傳
-  Logger.log(data)                                    // 印出資料 ( 第一次執行時必須有這一行 )
+  Logger.log(data)                                    // 印出資料 ( 第一次執行時必須有這一行，不然就報錯 )
   return ContentService.createTextOutput(JSON.stringify(data)).setMimeType(ContentService.MimeType.JSON);
 }
