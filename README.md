@@ -8,11 +8,15 @@
 
 ## 成果展示
 
+[網站連結](https://sites.google.com/fhehs.tp.edu.tw/fhrun2nd/%E9%A6%96%E9%A0%81home)
+
 [使用片段](https://youtu.be/n7ZgSPV8Ns8) <- 換成gif>
 
 使用量：
 
-[網站連結](https://sites.google.com/fhehs.tp.edu.tw/fhrun2nd/%E9%A6%96%E9%A0%81home)
+<img src="img/used_record.png" alt="使用量" width="500"> 
+
+沒有記錄到人數所以只能這樣呈現了，每次請求大概會消耗0.02元。總共使用了3.79元，所以使用人數大約是200人。
 
 ## 系統實現
 
@@ -20,4 +24,12 @@
 
 流程圖如下：
 
-![result](img/flow_diagram.png)
+<img src="img/flow_diagram.png" alt="result" height="500">
+
+## 未來展望
+
+未來還有以下幾點可以做更改：
+
+- 打號碼還要選年級有點反直覺，如果可以自動查詢所有表的話就不必這樣做了。
+- GCP 貴到嚇死人，下次搬去別的平台試試
+- 用 Python 寫網站有點彆扭，下次用 JavaScript 試試
