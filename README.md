@@ -8,7 +8,7 @@
 
 ## 成果展示
 
-[網站連結](https://sites.google.com/fhehs.tp.edu.tw/fhrun2nd/%E9%A6%96%E9%A0%81home)
+網站連結：[https://sites.google.com/fhehs.tp.edu.tw/fhrun2nd/%E6%88%90%E7%B8%BE%E5%85%AC%E5%91%8Aresult](https://sites.google.com/fhehs.tp.edu.tw/fhrun2nd/%E6%88%90%E7%B8%BE%E5%85%AC%E5%91%8Aresult)
 
 [使用片段](https://youtu.be/n7ZgSPV8Ns8) <- 換成gif>
 
