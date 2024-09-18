@@ -8,7 +8,9 @@
 
 ## 成果展示
 
-[網站連結](https://sites.google.com/fhehs.tp.edu.tw/fhrun2nd/%E9%A6%96%E9%A0%81home)
+網站連結：[https://sites.google.com/fhehs.tp.edu.tw/fhrun2nd/%E6%88%90%E7%B8%BE%E5%85%AC%E5%91%8Aresult](https://sites.google.com/fhehs.tp.edu.tw/fhrun2nd/%E6%88%90%E7%B8%BE%E5%85%AC%E5%91%8Aresult)
+
+測試號碼：老師, T-01
 
 ![使用片段](img/usage.gif)
 
@@ -32,4 +34,4 @@
 
 - 打號碼還要選年級有點反直覺，如果可以自動查詢所有表的話就不必這樣做了。
 - GCP 貴到嚇死人，下次搬去別的平台試試
-- 用 Python 寫網站有點彆扭，下次用 JavaScript 試試
+- 用 Python 寫網站有點彆扭，下次用 JavaScript
